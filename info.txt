@@ -1,0 +1,8 @@
+to deploy your react app on github do this things:
+1- you will do as in package.json same in your project
+2- when you finish the react app do this
+	git add .
+	git commit -m 'your msg'
+	npm run deploy
+	git push
+3- go to your github then pages then click on link will see your react app
